@@ -8,7 +8,7 @@
     "dev": "NODE_ENV=development nodemon -r esm"
   },
   "dependencies": {
-    "apollo-server-express": "^2.8.1",
+    "apollo-server-express": "^2.14.2",
     "bcryptjs": "^2.4.3",
     "esm": "^3.2.25",
     "express": "^4.17.1",
